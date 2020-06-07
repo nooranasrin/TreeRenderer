@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+}
+
+#tree {
+  margin: 0 auto;
+}
+
+.level {
+  display: flex;
+  justify-content: space-around;
+  height: 70px;
+}
+
+.node {
+  width: 40px;
+  height: 30px;
+  border-radius: 15%;
+  text-align: center;
+  line-height: 1.8;
+}
+
+.node_odd {
+  background-color: rgb(224, 191, 117);
+}
+
+.node_even {
+  background-color: rgb(168, 162, 247);
+}
