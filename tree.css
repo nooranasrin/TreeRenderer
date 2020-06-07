@@ -17,13 +17,13 @@ body {
   height: 30px;
   border-radius: 15%;
   text-align: center;
-  line-height: 1.8;
+  line-height: 1.9;
 }
 
 .node_odd {
-  background-color: rgb(224, 191, 117);
+  background-color: rgb(137, 241, 116);
 }
 
 .node_even {
-  background-color: rgb(168, 162, 247);
+  background-color: rgb(241, 161, 115);
 }
